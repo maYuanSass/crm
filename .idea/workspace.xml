@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ba54c20-b673-422e-8fb4-d7041adae77f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/58b21564-7b94-4623-9ad2-342fce0e589c.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/58b21564-7b94-4623-9ad2-342fce0e589c.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../JAVA/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\JAVA\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1tsH9GKcizjznCdc3forzH0v4Gj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BaiduNetdiskDownload/crm/pom.xml",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\ideaProject\crm\src\main\resources\views\user" />
+      <recent name="D:\Code\ideaProject\crm\src\main\resources\public\js" />
+      <recent name="D:\Code\ideaProject\crm\src\main\resources\views\report" />
+      <recent name="D:\Code\ideaProject\crm\src\main\resources\views" />
+      <recent name="D:\Code\ideaProject\crm\src\main\resources\views\module" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CrmApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mybatis-generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="CrmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="crm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xxxx.crm.CrmApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xxxx.crm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.mybatis-generator" />
+      <item itemvalue="Spring Boot.CrmApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.CrmApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Ambition\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba54c20-b673-422e-8fb4-d7041adae77f" name="Default Changelist" comment="" />
+      <created>1623550723674</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623550723674</updated>
+      <workItem from="1623550726803" duration="25464000" />
+      <workItem from="1623636093416" duration="4022000" />
+      <workItem from="1623645497477" duration="15209000" />
+      <workItem from="1623676035547" duration="5076000" />
+      <workItem from="1623725530144" duration="5519000" />
+      <workItem from="1623744646933" duration="11750000" />
+      <workItem from="1623810516773" duration="4271000" />
+      <workItem from="1623824719470" duration="4847000" />
+      <workItem from="1623926701799" duration="71000" />
+      <workItem from="1623935721380" duration="16000" />
+      <workItem from="1623983646828" duration="1569000" />
+      <workItem from="1624008992041" duration="2517000" />
+      <workItem from="1624011545553" duration="2864000" />
+      <workItem from="1624015819166" duration="2414000" />
+      <workItem from="1624021190541" duration="3451000" />
+      <workItem from="1624091129264" duration="3717000" />
+      <workItem from="1624094895223" duration="2419000" />
+      <workItem from="1624103908773" duration="3894000" />
+      <workItem from="1624152049451" duration="12809000" />
+      <workItem from="1624277347581" duration="3626000" />
+      <workItem from="1624330607688" duration="3506000" />
+      <workItem from="1624346677891" duration="5839000" />
+      <workItem from="1624353509126" duration="797000" />
+      <workItem from="1624442105587" duration="1205000" />
+      <workItem from="1624498768292" duration="5140000" />
+      <workItem from="1624538761038" duration="2018000" />
+      <workItem from="1624582251453" duration="5930000" />
+      <workItem from="1624589589911" duration="596000" />
+      <workItem from="1624613324683" duration="5056000" />
+      <workItem from="1624625810243" duration="1632000" />
+      <workItem from="1624680298289" duration="5706000" />
+      <workItem from="1624706490364" duration="3967000" />
+      <workItem from="1624757760962" duration="6689000" />
+      <workItem from="1624764632010" duration="487000" />
+      <workItem from="1624766366960" duration="307000" />
+      <workItem from="1624784627828" duration="12130000" />
+      <workItem from="1624853489203" duration="9584000" />
+      <workItem from="1734183214513" duration="1003000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
